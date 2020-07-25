@@ -1,6 +1,0 @@
-git + jenkins + ansible + kubernetes bunlar ile bir pipeline
- kodu yazicak developer pushlayacak sonra iste sonra jenkins'de CI/CD pipeline'in caliscak oradaki pipeline'da ansible olucak en sonunda kubernetes'e yollayabilmek icin son image'i falan
- boyle bir pipeline kurarken zaten aslinda bicok seye elin degmis oluyor hem asiri complexlestirmeden de sadece basit duzeyde de yapilabilir cok uzun surmez de
- sonra bunlara iste metric ve log monitoring eklersin
- prometheus veya influxdb kullanirsin metric monitoring icin
- log monitoring icin elk stack de olur oradaki secenekleri asiri bilmiom sadece fluentd galiba logstash gibi bir sey onu biliyom oyle bir sey olabilir
